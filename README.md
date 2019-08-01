@@ -1,3 +1,7 @@
+### About
+Lookei Media platform and Lookei Coins
+(Worldwide Media Sharing Platform)
+
 ### Version
 
 Truffle v4.1.15 (core: 4.1.15)
